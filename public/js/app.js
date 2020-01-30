@@ -1,4 +1,4 @@
-console.log('Client side java script is loaded !')
+/* console.log('Client side java script is loaded !') */
 
 // This fetch() function is only used at client-side javascript for fetching data from specific url.
 /* fetch('http://localhost:3000/weather?address=ahmedabad').then((response) => {
